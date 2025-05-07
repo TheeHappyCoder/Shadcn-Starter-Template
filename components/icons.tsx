@@ -6,7 +6,7 @@ import {
   type Icon as LucideIcon,
 } from "lucide-react"
 
-export type Icon = LucideIcon
+export type Icon = React.ComponentType<LucideProps>;
 
 export const Icons = {
   sun: SunMedium,

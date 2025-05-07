@@ -2,6 +2,9 @@
 
 A Next.js 15 template for building apps with Radix UI and Tailwind CSS.
 
+## Live Demo
+Check out the live demo of this template here: [Template Demo](https://template-pink-theta.vercel.app/)
+
 ## Usage
 
 ```bash
